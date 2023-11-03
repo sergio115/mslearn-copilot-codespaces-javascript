@@ -123,3 +123,11 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+/* add an amazing animation to the social icons */
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+}
